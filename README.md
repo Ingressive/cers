@@ -15,4 +15,4 @@ CERS is an open source software project and I encourage developers to contribute
 ### [Setup Guide](./setup.md)
 
 ## Contributors
-* @timtech4u
+* [@timtech4u](https://github.com/timtech4u)
