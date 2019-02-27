@@ -1,4 +1,5 @@
 .env
 *.pyc
 __pycache__/
-cers/db.sqlite3
+server/db.sqlite3
+server/staticfiles/

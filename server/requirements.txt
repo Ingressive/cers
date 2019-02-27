@@ -1,1 +1,4 @@
 Django==2
+django-crispy-forms
+django-heroku
+django-import-export
